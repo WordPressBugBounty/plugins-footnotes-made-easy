@@ -1,0 +1,1 @@
+# plugins-footnotes-made-easy
